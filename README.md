@@ -21,8 +21,6 @@ I'm Szymon, a passionate Programmer based in Poland. I love exploring new techno
 
 ### 🚀 Interests  
 - Full-stack web development
-- [Interest 2]
-- [Interest 3]
 
 ##  
 

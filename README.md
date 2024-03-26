@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>🌟 Welcome to My Profile! 🌟</b><br>  
+  <b>🌍 Welcome to My Profile! 🌐</b><br>  
   <a href="https://twitch.tv/szumittv">Twitch</a> |
   <a href="https://www.youtube.com/channel/UC2iIl6Y3_Ue8abMO3N03Caw">YouTube</a> |
   <a href="https://github.com/szumi6760">GitHub</a><br><br>
